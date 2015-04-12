@@ -1,4 +1,5 @@
-# Practica03 Juan Garcia Pereira, Braulio Pareja Manzanares
+# Practica03
+Autores: Juan Francisco Garcia Pereira Braulio Pareja Manzanares
 
 Tercera entrega.
 
